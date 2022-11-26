@@ -23,3 +23,5 @@ If there is a key error:
 ->Go to line 26 and indent it once spotify_client.py \
 ->If there still is a key error de-indent line 26 in spotify_client.py\
 Repeat as necessary
+
+WARNING: Doesn't work anymore in correspondence with the new spotify update
